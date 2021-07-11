@@ -1,4 +1,4 @@
 # Python Bootcamp
 
-Jupyter notebook files for a detailed bootcamp to learn Python.
+Jupyter notebook tutorial files for a Bootcamp to learn Python.
 
